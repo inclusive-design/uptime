@@ -1,0 +1,21 @@
+name: Fetch Records CI
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  release:
+    name: Fetch recors
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GH_PAT || github.token }}
+      - name: Checkout DNS
+        uses: actions/checkout@v4
+        with:
+          repository: inclusive-design/dns
+          path: dns
+          token: ${{ secrets.GH_PAT || github.token }}
