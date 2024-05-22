@@ -36,7 +36,10 @@ def process_record(apex_domain: str, subdomain: str, cfg: dict, upptimerc_path: 
     path = upptimerc_path
     with open(path, 'r') as file:
         data = yaml.safe_load(file)
-    data['sites'].append({'name': record, 'url': url})
+    site = {'name': record, 'url': url}
+    url_exists = any(item['url'] == site['url'] for item in data['sites'])
+    if not url_exists:
+        data['sites'].append(site)
     with open(path, 'w') as file:
         yaml.dump(data, file)
 
