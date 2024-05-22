@@ -23,5 +23,5 @@ jobs:
       - name: List domains
         run: |
           for file in dns/domains/*.js; do
-            echo "${file%.js}"
+            echo "$(basename "$file" .js)"
           done
