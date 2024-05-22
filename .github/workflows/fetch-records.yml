@@ -20,8 +20,5 @@ jobs:
           ref: main
           path: dns
           token: ${{ secrets.GH_DNS_PAT || github.token }}
-      - name: List domains
-        run: |
-          for file in dns/domains/*.js; do
-            echo "$(basename "$file" .js)"
-          done
+      - name: Generate Upptime sites
+        run: python3 scripts/generate-uptime-sites.py --domains-dir dns/domains --upptime-cfg scripts/upptime-cfg.yml --upptimerc-path .upptimerc.yml

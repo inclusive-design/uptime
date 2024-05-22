@@ -1,0 +1,39 @@
+# Some sites don't serve content using their root URLs. Specify which URLs should
+# be used instead.
+url-substitutions:
+  - name: metadata.floeproject.org
+    url: metadata.floeproject.org/demos/metadata
+
+  - name: build-chartauthoring.fluidproject.org
+    url: build-chartauthoring.fluidproject.org/demos
+
+  - name: build-discoverycat.fluidproject.org
+    url: build-discoverycat.fluidproject.org/demo
+
+  - name: build-firstdiscovery.fluidproject.org
+    url: build-firstdiscovery.fluidproject.org/demos
+
+  - name: build-infusion.fluidproject.org
+    url: build-infusion.fluidproject.org/demos/renderer
+
+  - name: build-prefseditors.fluidproject.org
+    url: build-prefseditors.fluidproject.org/demos/explorationTool
+
+  - name: build-videoplayer.fluidproject.org
+    url: build-videoplayer.fluidproject.org/demos/Mammals
+
+# List of patterns used by create-hurl-files.py to prevent unwanted records from
+# ending up in Hurl files
+ignore-records:
+  # CNAME records required by Google as proof of domain ownership
+  - 6rasms5pcdsr
+  - jr3ypq4j6crc
+
+  # Mail-related CNAME records
+  - improvmx
+
+  # incd.ca doesn't have an associated site
+  - incd.ca
+
+  # The cms site is currently disabled/offline
+  - cms.guide.inclusivedesign.ca
