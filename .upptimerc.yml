@@ -284,6 +284,7 @@ status-website:
   introTitle: IDRC Status
   logoUrl: https://raw.githubusercontent.com/inclusive-design/uptime/main/assets/idrc-icon.svg
   name: IDRC Status
+  cname: status.incd.ca
   navbar:
   - href: /
     title: Status
