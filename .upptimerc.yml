@@ -204,8 +204,6 @@ sites:
   url: guide.inclusivedesign.ca
 - name: map.wecount.inclusivedesign.ca
   url: map.wecount.inclusivedesign.ca
-- name: static.inclusivedesign.ca
-  url: static.inclusivedesign.ca
 - name: stories.cities.inclusivedesign.ca
   url: stories.cities.inclusivedesign.ca
 - name: wecount.inclusivedesign.ca
