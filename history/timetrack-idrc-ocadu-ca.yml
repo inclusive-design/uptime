@@ -1,7 +1,7 @@
 url: timetrack.idrc.ocadu.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-16T17:41:29.278Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2024-07-16T17:46:21.097Z
 startTime: 2024-05-22T14:51:13.662Z
 generator: Upptime <https://github.com/upptime/upptime>
