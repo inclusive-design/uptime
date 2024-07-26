@@ -2124,18 +2124,20 @@
     "url": "wecount.inclusivedesign.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wecount-inclusivedesign-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 61,
-    "timeWeek": 151,
-    "timeMonth": 182,
-    "timeYear": 165,
-    "dailyMinutesDown": {}
+    "time": 164,
+    "timeDay": 48,
+    "timeWeek": 137,
+    "timeMonth": 177,
+    "timeYear": 164,
+    "dailyMinutesDown": {
+      "2024-07-26": 1
+    }
   },
   {
     "name": "www.inclusivedesign.ca",
