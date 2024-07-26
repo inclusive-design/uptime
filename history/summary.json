@@ -6,16 +6,18 @@
     "slug": "idrc-ocadu-ca",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 51,
-    "timeWeek": 111,
+    "timeDay": 66,
+    "timeWeek": 110,
     "timeMonth": 123,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "sojustrepairit.ca",
@@ -575,16 +577,18 @@
     "slug": "idrc-ocadu-ca",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 51,
-    "timeWeek": 111,
+    "timeDay": 66,
+    "timeWeek": 110,
     "timeMonth": 123,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "acaw.idrc.ocadu.ca",
