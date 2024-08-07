@@ -2874,5 +2874,23 @@
     "timeMonth": 184,
     "timeYear": 177,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "consulting.idrc.ocadu.ca",
+    "url": "consulting.idrc.ocadu.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "consulting-idrc-ocadu-ca",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 114,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
+    "dailyMinutesDown": {}
   }
 ]
