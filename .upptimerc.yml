@@ -278,6 +278,8 @@ sites:
   url: www.unpopular.ca
 - name: inverted-wordclouds.inclusivedesign.ca
   url: inverted-wordclouds.inclusivedesign.ca
+- name: consulting.idrc.ocadu.ca
+  url: consulting.idrc.ocadu.ca
 status-website:
   cname: status.incd.ca
   introMessage: Status page for the Inclusive Design Research Centre, powered by [Upptime](https://github.com/upptime/upptime).
