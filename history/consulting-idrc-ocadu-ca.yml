@@ -1,7 +1,7 @@
 url: consulting.idrc.ocadu.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-10T16:51:11.128Z
+status: up
+code: 200
+responseTime: 122
+lastUpdated: 2024-09-10T17:15:00.990Z
 startTime: 2024-08-07T00:31:31.030Z
 generator: Upptime <https://github.com/upptime/upptime>
