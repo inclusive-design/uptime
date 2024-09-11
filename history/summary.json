@@ -2794,19 +2794,19 @@
     "url": "www.idrc.ocad.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www-idrc-ocad-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 228,
-    "timeWeek": 222,
+    "timeDay": 251,
+    "timeWeek": 229,
     "timeMonth": 264,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-09-11": 2
+      "2024-09-11": 5
     }
   },
   {
