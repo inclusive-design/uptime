@@ -1,7 +1,7 @@
 url: resources.codelearncreate.ca
-status: up
-code: 200
-responseTime: 448
-lastUpdated: 2024-09-11T23:01:12.004Z
+status: down
+code: 500
+responseTime: 505
+lastUpdated: 2024-09-12T09:38:13.106Z
 startTime: 2024-05-22T14:50:49.495Z
 generator: Upptime <https://github.com/upptime/upptime>
