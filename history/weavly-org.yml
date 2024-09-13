@@ -1,7 +1,7 @@
 url: weavly.org
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2024-09-12T23:02:04.724Z
+status: down
+code: 500
+responseTime: 80
+lastUpdated: 2024-09-13T09:35:25.236Z
 startTime: 2024-05-22T14:51:32.959Z
 generator: Upptime <https://github.com/upptime/upptime>
