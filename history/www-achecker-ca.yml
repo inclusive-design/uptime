@@ -1,7 +1,7 @@
 url: www.achecker.ca
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2024-09-15T23:01:51.896Z
+status: down
+code: 500
+responseTime: 8637
+lastUpdated: 2024-09-16T19:14:07.417Z
 startTime: 2024-05-22T14:51:36.107Z
 generator: Upptime <https://github.com/upptime/upptime>
