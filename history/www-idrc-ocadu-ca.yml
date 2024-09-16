@@ -1,7 +1,7 @@
 url: www.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 279
-lastUpdated: 2024-09-15T23:01:28.231Z
+status: down
+code: 500
+responseTime: 3268
+lastUpdated: 2024-09-16T19:28:01.200Z
 startTime: 2024-05-22T14:51:00.333Z
 generator: Upptime <https://github.com/upptime/upptime>
