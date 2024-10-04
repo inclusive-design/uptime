@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sojustrepairit-ca",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 554,
     "timeDay": 629,
     "timeWeek": 496,
@@ -1102,18 +1102,20 @@
     "url": "static.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "static-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 173,
     "timeDay": 139,
     "timeWeek": 159,
     "timeMonth": 170,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-04": 6
+    }
   },
   {
     "name": "stretch.idrc.ocadu.ca",
@@ -2530,18 +2532,20 @@
     "url": "cnice.idrc.ocad.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cnice-idrc-ocad-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 151,
     "timeWeek": 175,
     "timeMonth": 188,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-04": 3
+    }
   },
   {
     "name": "courses.idrc.ocad.ca",
