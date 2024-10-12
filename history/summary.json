@@ -3192,5 +3192,25 @@
       "2024-08-20": 21,
       "2024-08-13": 12
     }
+  },
+  {
+    "name": "hhdblzi6zso3.inclusivedesign.ca",
+    "url": "hhdblzi6zso3.inclusivedesign.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "hhdblzi6zso3-inclusivedesign-ca",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-10-12": 2
+    }
   }
 ]
