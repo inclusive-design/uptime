@@ -28,6 +28,7 @@ ignore-records:
   # CNAME records required by Google as proof of domain ownership
   - 6rasms5pcdsr
   - jr3ypq4j6crc
+  - hhdblzi6zso3
 
   # Mail-related CNAME records
   - improvmx
