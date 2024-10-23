@@ -1566,19 +1566,19 @@
     "url": "stories.sojustrepairit.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stories-sojustrepairit-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 251,
-    "timeWeek": 229,
-    "timeMonth": 267,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 249,
+    "timeWeek": 231,
+    "timeMonth": 266,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-10-23": 2
+      "2024-10-23": 7
     }
   },
   {
