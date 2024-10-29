@@ -36,5 +36,6 @@ ignore-records:
   # incd.ca doesn't have an associated site
   - incd.ca
 
-  # The cms site is currently disabled/offline
+  # The following sites are currently disabled/offline
   - cms.guide.inclusivedesign.ca
+  - consulting.idrc.ocadu.ca
