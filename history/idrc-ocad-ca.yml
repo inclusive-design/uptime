@@ -1,7 +1,7 @@
 url: idrc.ocad.ca
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2024-11-03T23:02:08.785Z
+status: down
+code: 500
+responseTime: 2759
+lastUpdated: 2024-11-04T15:38:43.344Z
 startTime: 2024-05-22T14:51:50.576Z
 generator: Upptime <https://github.com/upptime/upptime>
