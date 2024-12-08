@@ -875,10 +875,10 @@
     "url": "www.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 296,
@@ -887,7 +887,7 @@
     "timeMonth": 223,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-12-08": 14,
+      "2024-12-08": 15,
       "2024-10-06": 7,
       "2024-09-16": 6,
       "2024-09-13": 6
@@ -978,10 +978,10 @@
     "url": "courses.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "courses-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 187,
@@ -990,7 +990,7 @@
     "timeMonth": 178,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-12-08": 17
+      "2024-12-08": 18
     }
   },
   {
@@ -1176,10 +1176,10 @@
     "url": "outside-in.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outside-in-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 175,
@@ -1188,7 +1188,7 @@
     "timeMonth": 165,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2024-12-08": 10
+      "2024-12-08": 11
     }
   },
   {
@@ -1196,10 +1196,10 @@
     "url": "pipedaproject.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pipedaproject-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 178,
@@ -1208,7 +1208,7 @@
     "timeMonth": 176,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-12-08": 22
+      "2024-12-08": 23
     }
   },
   {
