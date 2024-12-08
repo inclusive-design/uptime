@@ -1,7 +1,7 @@
 url: opencaps.idrc.ocadu.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-08T21:56:24.204Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2024-12-08T22:04:14.503Z
 startTime: 2024-05-22T14:51:08.988Z
 generator: Upptime <https://github.com/upptime/upptime>
