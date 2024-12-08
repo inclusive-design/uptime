@@ -994,19 +994,19 @@
     "url": "culturall.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "culturall-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 135,
-    "timeWeek": 142,
+    "timeDay": 147,
+    "timeWeek": 145,
     "timeMonth": 171,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-12-08": 8
+      "2024-12-08": 14
     }
   },
   {
