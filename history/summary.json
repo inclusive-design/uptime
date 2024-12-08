@@ -1034,19 +1034,19 @@
     "url": "culturall2.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "culturall2-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 182,
-    "timeYear": 200,
+    "time": 201,
+    "timeDay": 208,
+    "timeWeek": 175,
+    "timeMonth": 184,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-12-08": 1
+      "2024-12-08": 8
     }
   },
   {
@@ -1072,10 +1072,10 @@
     "url": "ilc.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ilc-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 173,
@@ -1084,7 +1084,7 @@
     "timeMonth": 178,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-12-08": 22
+      "2024-12-08": 23
     }
   },
   {
@@ -1092,19 +1092,19 @@
     "url": "legacy.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "legacy-idrc-ocadu-ca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 172,
-    "timeDay": 196,
-    "timeWeek": 191,
-    "timeMonth": 171,
+    "timeDay": 181,
+    "timeWeek": 187,
+    "timeMonth": 170,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-12-08": 11
+      "2024-12-08": 18
     }
   },
   {
@@ -1112,10 +1112,10 @@
     "url": "nide.snow.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nide-snow-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
@@ -1123,7 +1123,9 @@
     "timeWeek": 163,
     "timeMonth": 172,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-08": 1
+    }
   },
   {
     "name": "opencaps.idrc.ocadu.ca",
