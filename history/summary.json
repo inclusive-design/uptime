@@ -978,10 +978,10 @@
     "url": "courses.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "courses-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -989,7 +989,9 @@
     "timeWeek": 187,
     "timeMonth": 179,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-08": 1
+    }
   },
   {
     "name": "culturall.idrc.ocadu.ca",
@@ -1016,19 +1018,19 @@
     "url": "culturall1.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "culturall1-idrc-ocadu-ca",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 183,
     "timeDay": 143,
     "timeWeek": 163,
     "timeMonth": 176,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-12-08": 15
+      "2024-12-08": 16
     }
   },
   {
@@ -1208,10 +1210,10 @@
     "url": "snow.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "snow-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 173,
@@ -1220,7 +1222,7 @@
     "timeMonth": 171,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-12-08": 18
+      "2024-12-08": 19
     }
   },
   {
