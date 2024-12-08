@@ -1,7 +1,7 @@
 url: legacy.idrc.ocadu.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-08T20:41:48.283Z
+status: up
+code: 200
+responseTime: 134
+lastUpdated: 2024-12-08T20:48:18.615Z
 startTime: 2024-05-22T14:51:07.816Z
 generator: Upptime <https://github.com/upptime/upptime>
