@@ -917,19 +917,19 @@
     "url": "adod.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adod-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 142,
-    "timeWeek": 168,
+    "timeDay": 154,
+    "timeWeek": 170,
     "timeMonth": 178,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-12-08": 17
+      "2024-12-08": 28
     }
   },
   {
@@ -937,19 +937,19 @@
     "url": "aegis.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aegis-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 153,
-    "timeWeek": 177,
-    "timeMonth": 197,
+    "timeDay": 149,
+    "timeWeek": 173,
+    "timeMonth": 195,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-12-08": 1
+      "2024-12-08": 12
     }
   },
   {
@@ -1177,19 +1177,19 @@
     "url": "pipedaproject.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pipedaproject-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 128,
-    "timeWeek": 187,
-    "timeMonth": 178,
+    "timeDay": 137,
+    "timeWeek": 182,
+    "timeMonth": 177,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-12-08": 1
+      "2024-12-08": 12
     }
   },
   {
@@ -1197,19 +1197,19 @@
     "url": "snow.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "snow-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 143,
-    "timeWeek": 194,
-    "timeMonth": 173,
+    "timeDay": 137,
+    "timeWeek": 186,
+    "timeMonth": 171,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-12-08": 1
+      "2024-12-08": 12
     }
   },
   {
@@ -1237,19 +1237,19 @@
     "url": "stretch.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stretch-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 147,
-    "timeWeek": 172,
-    "timeMonth": 174,
+    "timeDay": 143,
+    "timeWeek": 168,
+    "timeMonth": 173,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2024-12-08": 1
+      "2024-12-08": 12
     }
   },
   {
