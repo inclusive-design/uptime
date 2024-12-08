@@ -917,10 +917,10 @@
     "url": "adod.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adod-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 184,
@@ -929,7 +929,7 @@
     "timeMonth": 180,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-12-08": 9
+      "2024-12-08": 10
     }
   },
   {
@@ -991,10 +991,10 @@
     "url": "culturall.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "culturall-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
@@ -1002,7 +1002,9 @@
     "timeWeek": 144,
     "timeMonth": 173,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-08": 1
+    }
   },
   {
     "name": "culturall1.idrc.ocadu.ca",
