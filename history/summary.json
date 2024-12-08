@@ -875,19 +875,19 @@
     "url": "www.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 296,
-    "timeDay": 190,
-    "timeWeek": 187,
-    "timeMonth": 223,
+    "timeDay": 183,
+    "timeWeek": 184,
+    "timeMonth": 221,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-12-08": 15,
+      "2024-12-08": 21,
       "2024-10-06": 7,
       "2024-09-16": 6,
       "2024-09-13": 6
@@ -958,11 +958,11 @@
     "url": "cnice.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cnice-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 175,
@@ -970,7 +970,7 @@
     "timeMonth": 173,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-12-08": 15
+      "2024-12-08": 16
     }
   },
   {
@@ -978,19 +978,19 @@
     "url": "courses.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "courses-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 187,
-    "timeDay": 160,
-    "timeWeek": 181,
-    "timeMonth": 178,
+    "timeDay": 171,
+    "timeWeek": 183,
+    "timeMonth": 179,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-12-08": 18
+      "2024-12-08": 24
     }
   },
   {
@@ -1098,11 +1098,11 @@
     "url": "legacy.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "legacy-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 172,
     "timeDay": 169,
@@ -1110,7 +1110,7 @@
     "timeMonth": 169,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-12-08": 25
+      "2024-12-08": 26
     }
   },
   {
@@ -1176,19 +1176,19 @@
     "url": "outside-in.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outside-in-idrc-ocadu-ca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 175,
-    "timeDay": 152,
-    "timeWeek": 165,
-    "timeMonth": 165,
+    "timeDay": 149,
+    "timeWeek": 162,
+    "timeMonth": 164,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2024-12-08": 11
+      "2024-12-08": 17
     }
   },
   {
@@ -1196,19 +1196,19 @@
     "url": "pipedaproject.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pipedaproject-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 136,
-    "timeWeek": 176,
+    "timeDay": 149,
+    "timeWeek": 177,
     "timeMonth": 176,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-12-08": 23
+      "2024-12-08": 29
     }
   },
   {
