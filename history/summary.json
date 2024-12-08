@@ -848,11 +848,11 @@
     "url": "lists.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lists-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 1069,
     "timeDay": 746,
@@ -860,7 +860,7 @@
     "timeMonth": 831,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2024-12-08": 21,
+      "2024-12-08": 22,
       "2024-11-26": 10,
       "2024-11-24": 7,
       "2024-06-27": 15,
@@ -1070,10 +1070,10 @@
     "url": "ilc.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ilc-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
@@ -1081,17 +1081,19 @@
     "timeWeek": 189,
     "timeMonth": 180,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-08": 1
+    }
   },
   {
     "name": "legacy.idrc.ocadu.ca",
     "url": "legacy.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "legacy-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
@@ -1099,7 +1101,9 @@
     "timeWeek": 181,
     "timeMonth": 168,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-08": 1
+    }
   },
   {
     "name": "nide.snow.idrc.ocadu.ca",
@@ -1238,10 +1242,10 @@
     "url": "stretch.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stretch-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 165,
@@ -1250,7 +1254,7 @@
     "timeMonth": 173,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2024-12-08": 12
+      "2024-12-08": 13
     }
   },
   {
