@@ -1273,10 +1273,10 @@
     "url": "stretch.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stretch-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 164,
@@ -1285,6 +1285,7 @@
     "timeMonth": 168,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2024-12-09": 1,
       "2024-12-08": 22
     }
   },
