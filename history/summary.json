@@ -875,10 +875,10 @@
     "url": "www.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 295,
@@ -887,6 +887,7 @@
     "timeMonth": 223,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2024-12-09": 1,
       "2024-12-08": 21,
       "2024-10-06": 7,
       "2024-09-16": 6,
@@ -918,11 +919,11 @@
     "url": "adod.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adod-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 183,
     "timeDay": 156,
@@ -930,6 +931,7 @@
     "timeMonth": 176,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2024-12-09": 1,
       "2024-12-08": 42
     }
   },
@@ -938,10 +940,10 @@
     "url": "aegis.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aegis-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 188,
@@ -950,7 +952,7 @@
     "timeMonth": 196,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-12-09": 48,
+      "2024-12-09": 49,
       "2024-12-08": 12
     }
   },
