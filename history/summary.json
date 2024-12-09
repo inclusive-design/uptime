@@ -923,10 +923,10 @@
     "url": "adod.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adod-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 183,
@@ -935,7 +935,7 @@
     "timeMonth": 175,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-12-09": 20,
+      "2024-12-09": 21,
       "2024-12-08": 42
     }
   },
