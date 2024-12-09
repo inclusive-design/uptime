@@ -938,10 +938,10 @@
     "url": "aegis.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aegis-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -950,6 +950,7 @@
     "timeMonth": 195,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2024-12-09": 1,
       "2024-12-08": 12
     }
   },
