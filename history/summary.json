@@ -1168,10 +1168,10 @@
     "url": "opendoors.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opendoors-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 171,
@@ -1180,7 +1180,7 @@
     "timeMonth": 162,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-12-09": 16
+      "2024-12-09": 17
     }
   },
   {
@@ -1188,10 +1188,10 @@
     "url": "outside-in.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outside-in-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 174,
@@ -1200,6 +1200,7 @@
     "timeMonth": 163,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2024-12-09": 1,
       "2024-12-08": 17
     }
   },
@@ -1331,10 +1332,10 @@
     "url": "www.snow.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www-snow-idrc-ocadu-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
@@ -1342,7 +1343,9 @@
     "timeWeek": 159,
     "timeMonth": 166,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-09": 1
+    }
   },
   {
     "name": "fluidengage.ca",
