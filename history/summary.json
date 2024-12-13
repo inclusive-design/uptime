@@ -3384,5 +3384,23 @@
       "2024-10-12": 9,
       "2024-09-17": 9
     }
+  },
+  {
+    "name": "consulting.inclusivedesign.ca",
+    "url": "consulting.inclusivedesign.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "consulting-inclusivedesign-ca",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 355,
+    "timeDay": 355,
+    "timeWeek": 355,
+    "timeMonth": 355,
+    "timeYear": 355,
+    "dailyMinutesDown": {}
   }
 ]
