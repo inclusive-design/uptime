@@ -3433,19 +3433,19 @@
     "url": "consulting.inclusivedesign.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "consulting-inclusivedesign-ca",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 277,
-    "timeDay": 289,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 280,
+    "timeDay": 292,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-12-17": 12
+      "2024-12-17": 16
     }
   }
 ]
