@@ -3447,5 +3447,23 @@
     "dailyMinutesDown": {
       "2024-12-17": 16
     }
+  },
+  {
+    "name": "dev.consulting.inclusivedesign.ca",
+    "url": "dev.consulting.inclusivedesign.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "dev-consulting-inclusivedesign-ca",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
+    "dailyMinutesDown": {}
   }
 ]
