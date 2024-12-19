@@ -281,6 +281,8 @@ sites:
   url: inverted-wordclouds.inclusivedesign.ca
 - name: consulting.inclusivedesign.ca
   url: consulting.inclusivedesign.ca
+- name: dev.consulting.inclusivedesign.ca
+  url: dev.consulting.inclusivedesign.ca
 status-website:
   cname: status.incd.ca
   introMessage: Status page for the Inclusive Design Research Centre, powered by [Upptime](https://github.com/upptime/upptime).
