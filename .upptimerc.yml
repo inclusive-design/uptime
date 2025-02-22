@@ -1,284 +1,284 @@
 assignees:
-  - avtar
-  - greatislander
-  - jobara
+- avtar
+- greatislander
+- jobara
 owner: inclusive-design
 repo: uptime
 sites:
-  - name: idrc.ocadu.ca
-    url: https://idrc.ocadu.ca
-  - name: sojustrepairit.ca
-    url: sojustrepairit.ca
-  - name: www.sojustrepairit.ca
-    url: www.sojustrepairit.ca
-  - name: floeproject.org
-    url: floeproject.org
-  - name: www.floeproject.org
-    url: www.floeproject.org
-  - name: handbook.floeproject.org
-    url: handbook.floeproject.org
-  - name: karisma-stories.floeproject.org
-    url: karisma-stories.floeproject.org
-  - name: metadata.floeproject.org
-    url: metadata.floeproject.org/demos/metadata
-  - name: staging-stories.floeproject.org
-    url: staging-stories.floeproject.org
-  - name: stories.floeproject.org
-    url: stories.floeproject.org
-  - name: codelearncreate.ca
-    url: codelearncreate.ca
-  - name: prototype.codelearncreate.ca
-    url: prototype.codelearncreate.ca
-  - name: resources.codelearncreate.ca
-    url: resources.codelearncreate.ca
-  - name: www.codelearncreate.ca
-    url: www.codelearncreate.ca
-  - name: codelearncreate.com
-    url: codelearncreate.com
-  - name: prototype.codelearncreate.com
-    url: prototype.codelearncreate.com
-  - name: resources.codelearncreate.com
-    url: resources.codelearncreate.com
-  - name: www.codelearncreate.com
-    url: www.codelearncreate.com
-  - name: fluidinfusion.ca
-    url: fluidinfusion.ca
-  - name: www.fluidinfusion.ca
-    url: www.fluidinfusion.ca
-  - name: inclusivelearning.ca
-    url: inclusivelearning.ca
-  - name: www.inclusivelearning.ca
-    url: www.inclusivelearning.ca
-  - name: in-kind.ca
-    url: in-kind.ca
-  - name: www.in-kind.ca
-    url: www.in-kind.ca
-  - name: idrc.ocadu.ca
-    url: idrc.ocadu.ca
-  - name: acaw.idrc.ocadu.ca
-    url: acaw.idrc.ocadu.ca
-  - name: cama.idrc.ocadu.ca
-    url: cama.idrc.ocadu.ca
-  - name: lists.idrc.ocadu.ca
-    url: lists.idrc.ocadu.ca
-  - name: www.idrc.ocadu.ca
-    url: www.idrc.ocadu.ca
-  - name: acaw-cama.idrc.ocadu.ca
-    url: acaw-cama.idrc.ocadu.ca
-  - name: adod.idrc.ocadu.ca
-    url: adod.idrc.ocadu.ca
-  - name: aegis.idrc.ocadu.ca
-    url: aegis.idrc.ocadu.ca
-  - name: cnice.idrc.ocadu.ca
-    url: cnice.idrc.ocadu.ca
-  - name: courses.idrc.ocadu.ca
-    url: courses.idrc.ocadu.ca
-  - name: culturall.idrc.ocadu.ca
-    url: culturall.idrc.ocadu.ca
-  - name: culturall1.idrc.ocadu.ca
-    url: culturall1.idrc.ocadu.ca
-  - name: culturall2.idrc.ocadu.ca
-    url: culturall2.idrc.ocadu.ca
-  - name: deep.idrc.ocadu.ca
-    url: deep.idrc.ocadu.ca
-  - name: ilc.idrc.ocadu.ca
-    url: ilc.idrc.ocadu.ca
-  - name: legacy.idrc.ocadu.ca
-    url: legacy.idrc.ocadu.ca
-  - name: nide.snow.idrc.ocadu.ca
-    url: nide.snow.idrc.ocadu.ca
-  - name: opencaps.idrc.ocadu.ca
-    url: opencaps.idrc.ocadu.ca
-  - name: opendoors.idrc.ocadu.ca
-    url: opendoors.idrc.ocadu.ca
-  - name: outside-in.idrc.ocadu.ca
-    url: outside-in.idrc.ocadu.ca
-  - name: pipedaproject.idrc.ocadu.ca
-    url: pipedaproject.idrc.ocadu.ca
-  - name: snow.idrc.ocadu.ca
-    url: snow.idrc.ocadu.ca
-  - name: static.idrc.ocadu.ca
-    url: static.idrc.ocadu.ca
-  - name: stretch.idrc.ocadu.ca
-    url: stretch.idrc.ocadu.ca
-  - name: www.snow.idrc.ocadu.ca
-    url: www.snow.idrc.ocadu.ca
-  - name: fluidengage.ca
-    url: fluidengage.ca
-  - name: www.fluidengage.ca
-    url: www.fluidengage.ca
-  - name: webpourtous.ca
-    url: webpourtous.ca
-  - name: www.webpourtous.ca
-    url: www.webpourtous.ca
-  - name: fluidinfusion.org
-    url: fluidinfusion.org
-  - name: www.fluidinfusion.org
-    url: www.fluidinfusion.org
-  - name: bigidea.one
-    url: bigidea.one
-  - name: www.bigidea.one
-    url: www.bigidea.one
-  - name: sojustrepairit.org
-    url: sojustrepairit.org
-  - name: www.sojustrepairit.org
-    url: www.sojustrepairit.org
-  - name: stories.sojustrepairit.org
-    url: stories.sojustrepairit.org
-  - name: fluidproject.org
-    url: fluidproject.org
-  - name: issues.fluidproject.org
-    url: issues.fluidproject.org
-  - name: wiki.fluidproject.org
-    url: wiki.fluidproject.org
-  - name: www.fluidproject.org
-    url: www.fluidproject.org
-  - name: build.fluidproject.org
-    url: build.fluidproject.org
-  - name: build-chartauthoring.fluidproject.org
-    url: build-chartauthoring.fluidproject.org/demos
-  - name: build-discoverycat.fluidproject.org
-    url: build-discoverycat.fluidproject.org/demo
-  - name: build-firstdiscovery.fluidproject.org
-    url: build-firstdiscovery.fluidproject.org/demos
-  - name: build-infusion.fluidproject.org
-    url: build-infusion.fluidproject.org/demos/renderer
-  - name: build-musicmania.fluidproject.org
-    url: build-musicmania.fluidproject.org
-  - name: build-playtown.fluidproject.org
-    url: build-playtown.fluidproject.org
-  - name: build-prefseditors.fluidproject.org
-    url: build-prefseditors.fluidproject.org/demos/explorationTool
-  - name: build-videoplayer.fluidproject.org
-    url: build-videoplayer.fluidproject.org/demos/Mammals
-  - name: docs.fluidproject.org
-    url: docs.fluidproject.org
-  - name: forge.fluidproject.org
-    url: forge.fluidproject.org
-  - name: weavly.org
-    url: weavly.org
-  - name: create.weavly.org
-    url: create.weavly.org
-  - name: co-design.weavly.org
-    url: co-design.weavly.org
-  - name: www.weavly.org
-    url: www.weavly.org
-  - name: achecker.ca
-    url: achecker.ca
-  - name: www.achecker.ca
-    url: www.achecker.ca
-  - name: codelearncreate.org
-    url: codelearncreate.org
-  - name: www.codelearncreate.org
-    url: www.codelearncreate.org
-  - name: build.codelearncreate.org
-    url: build.codelearncreate.org
-  - name: forest.codelearncreate.org
-    url: forest.codelearncreate.org
-  - name: prototype.codelearncreate.org
-    url: prototype.codelearncreate.org
-  - name: resources.codelearncreate.org
-    url: resources.codelearncreate.org
-  - name: space.codelearncreate.org
-    url: space.codelearncreate.org
-  - name: inclusivedesign.ca
-    url: inclusivedesign.ca
-  - name: tracktime.inclusivedesign.ca
-    url: tracktime.inclusivedesign.ca
-  - name: accessibility-exchange.inclusivedesign.ca
-    url: accessibility-exchange.inclusivedesign.ca
-  - name: accessibility-in-action.inclusivedesign.ca
-    url: accessibility-in-action.inclusivedesign.ca
-  - name: aihec.inclusivedesign.ca
-    url: aihec.inclusivedesign.ca
-  - name: cities.inclusivedesign.ca
-    url: cities.inclusivedesign.ca
-  - name: codesign.inclusivedesign.ca
-    url: codesign.inclusivedesign.ca
-  - name: co-design.inclusivedesign.ca
-    url: co-design.inclusivedesign.ca
-  - name: eco-op.inclusivedesign.ca
-    url: eco-op.inclusivedesign.ca
-  - name: guide.inclusivedesign.ca
-    url: guide.inclusivedesign.ca
-  - name: map.wecount.inclusivedesign.ca
-    url: map.wecount.inclusivedesign.ca
-  - name: stories.cities.inclusivedesign.ca
-    url: stories.cities.inclusivedesign.ca
-  - name: wecount.inclusivedesign.ca
-    url: wecount.inclusivedesign.ca
-  - name: www.inclusivedesign.ca
-    url: www.inclusivedesign.ca
-  - name: barrierfree.ca
-    url: barrierfree.ca
-  - name: www.barrierfree.ca
-    url: www.barrierfree.ca
-  - name: idrc.ocad.ca
-    url: idrc.ocad.ca
-  - name: lists.idrc.ocad.ca
-    url: lists.idrc.ocad.ca
-  - name: adod.idrc.ocad.ca
-    url: adod.idrc.ocad.ca
-  - name: aegis.idrc.ocad.ca
-    url: aegis.idrc.ocad.ca
-  - name: clown.idrc.ocad.ca
-    url: clown.idrc.ocad.ca
-  - name: cnice.idrc.ocad.ca
-    url: cnice.idrc.ocad.ca
-  - name: courses.idrc.ocad.ca
-    url: courses.idrc.ocad.ca
-  - name: culturall.idrc.ocad.ca
-    url: culturall.idrc.ocad.ca
-  - name: culturall1.idrc.ocad.ca
-    url: culturall1.idrc.ocad.ca
-  - name: culturall2.idrc.ocad.ca
-    url: culturall2.idrc.ocad.ca
-  - name: deep.idrc.ocad.ca
-    url: deep.idrc.ocad.ca
-  - name: ilc.idrc.ocad.ca
-    url: ilc.idrc.ocad.ca
-  - name: legacy.idrc.ocad.ca
-    url: legacy.idrc.ocad.ca
-  - name: nide.idrc.ocad.ca
-    url: nide.idrc.ocad.ca
-  - name: opencaps.idrc.ocad.ca
-    url: opencaps.idrc.ocad.ca
-  - name: opendoors.idrc.ocad.ca
-    url: opendoors.idrc.ocad.ca
-  - name: outside-in.idrc.ocad.ca
-    url: outside-in.idrc.ocad.ca
-  - name: pipedaproject.idrc.ocad.ca
-    url: pipedaproject.idrc.ocad.ca
-  - name: snow.idrc.ocad.ca
-    url: snow.idrc.ocad.ca
-  - name: static.idrc.ocad.ca
-    url: static.idrc.ocad.ca
-  - name: stretch.idrc.ocad.ca
-    url: stretch.idrc.ocad.ca
-  - name: www.idrc.ocad.ca
-    url: www.idrc.ocad.ca
-  - name: www.snow.idrc.ocad.ca
-    url: www.snow.idrc.ocad.ca
-  - name: fluidengage.org
-    url: fluidengage.org
-  - name: www.fluidengage.org
-    url: www.fluidengage.org
-  - name: includenet.ca
-    url: includenet.ca
-  - name: www.includenet.ca
-    url: www.includenet.ca
-  - name: web4all.ca
-    url: web4all.ca
-  - name: www.web4all.ca
-    url: www.web4all.ca
-  - name: unpopular.ca
-    url: unpopular.ca
-  - name: www.unpopular.ca
-    url: www.unpopular.ca
-  - name: inverted-wordclouds.inclusivedesign.ca
-    url: inverted-wordclouds.inclusivedesign.ca
-  - name: standards.inclusivedesign.ca
-    url: standards.inclusivedesign.ca
+- name: idrc.ocadu.ca
+  url: https://idrc.ocadu.ca
+- name: sojustrepairit.ca
+  url: sojustrepairit.ca
+- name: www.sojustrepairit.ca
+  url: www.sojustrepairit.ca
+- name: floeproject.org
+  url: floeproject.org
+- name: www.floeproject.org
+  url: www.floeproject.org
+- name: handbook.floeproject.org
+  url: handbook.floeproject.org
+- name: karisma-stories.floeproject.org
+  url: karisma-stories.floeproject.org
+- name: metadata.floeproject.org
+  url: metadata.floeproject.org/demos/metadata
+- name: staging-stories.floeproject.org
+  url: staging-stories.floeproject.org
+- name: stories.floeproject.org
+  url: stories.floeproject.org
+- name: codelearncreate.ca
+  url: codelearncreate.ca
+- name: prototype.codelearncreate.ca
+  url: prototype.codelearncreate.ca
+- name: resources.codelearncreate.ca
+  url: resources.codelearncreate.ca
+- name: www.codelearncreate.ca
+  url: www.codelearncreate.ca
+- name: codelearncreate.com
+  url: codelearncreate.com
+- name: prototype.codelearncreate.com
+  url: prototype.codelearncreate.com
+- name: resources.codelearncreate.com
+  url: resources.codelearncreate.com
+- name: www.codelearncreate.com
+  url: www.codelearncreate.com
+- name: fluidinfusion.ca
+  url: fluidinfusion.ca
+- name: www.fluidinfusion.ca
+  url: www.fluidinfusion.ca
+- name: inclusivelearning.ca
+  url: inclusivelearning.ca
+- name: www.inclusivelearning.ca
+  url: www.inclusivelearning.ca
+- name: in-kind.ca
+  url: in-kind.ca
+- name: www.in-kind.ca
+  url: www.in-kind.ca
+- name: idrc.ocadu.ca
+  url: idrc.ocadu.ca
+- name: acaw.idrc.ocadu.ca
+  url: acaw.idrc.ocadu.ca
+- name: cama.idrc.ocadu.ca
+  url: cama.idrc.ocadu.ca
+- name: lists.idrc.ocadu.ca
+  url: lists.idrc.ocadu.ca
+- name: www.idrc.ocadu.ca
+  url: www.idrc.ocadu.ca
+- name: acaw-cama.idrc.ocadu.ca
+  url: acaw-cama.idrc.ocadu.ca
+- name: adod.idrc.ocadu.ca
+  url: adod.idrc.ocadu.ca
+- name: aegis.idrc.ocadu.ca
+  url: aegis.idrc.ocadu.ca
+- name: cnice.idrc.ocadu.ca
+  url: cnice.idrc.ocadu.ca
+- name: courses.idrc.ocadu.ca
+  url: courses.idrc.ocadu.ca
+- name: culturall.idrc.ocadu.ca
+  url: culturall.idrc.ocadu.ca
+- name: culturall1.idrc.ocadu.ca
+  url: culturall1.idrc.ocadu.ca
+- name: culturall2.idrc.ocadu.ca
+  url: culturall2.idrc.ocadu.ca
+- name: deep.idrc.ocadu.ca
+  url: deep.idrc.ocadu.ca
+- name: ilc.idrc.ocadu.ca
+  url: ilc.idrc.ocadu.ca
+- name: legacy.idrc.ocadu.ca
+  url: legacy.idrc.ocadu.ca
+- name: nide.snow.idrc.ocadu.ca
+  url: nide.snow.idrc.ocadu.ca
+- name: opencaps.idrc.ocadu.ca
+  url: opencaps.idrc.ocadu.ca
+- name: opendoors.idrc.ocadu.ca
+  url: opendoors.idrc.ocadu.ca
+- name: outside-in.idrc.ocadu.ca
+  url: outside-in.idrc.ocadu.ca
+- name: pipedaproject.idrc.ocadu.ca
+  url: pipedaproject.idrc.ocadu.ca
+- name: snow.idrc.ocadu.ca
+  url: snow.idrc.ocadu.ca
+- name: static.idrc.ocadu.ca
+  url: static.idrc.ocadu.ca
+- name: stretch.idrc.ocadu.ca
+  url: stretch.idrc.ocadu.ca
+- name: www.snow.idrc.ocadu.ca
+  url: www.snow.idrc.ocadu.ca
+- name: fluidengage.ca
+  url: fluidengage.ca
+- name: www.fluidengage.ca
+  url: www.fluidengage.ca
+- name: webpourtous.ca
+  url: webpourtous.ca
+- name: www.webpourtous.ca
+  url: www.webpourtous.ca
+- name: fluidinfusion.org
+  url: fluidinfusion.org
+- name: www.fluidinfusion.org
+  url: www.fluidinfusion.org
+- name: bigidea.one
+  url: bigidea.one
+- name: www.bigidea.one
+  url: www.bigidea.one
+- name: sojustrepairit.org
+  url: sojustrepairit.org
+- name: www.sojustrepairit.org
+  url: www.sojustrepairit.org
+- name: stories.sojustrepairit.org
+  url: stories.sojustrepairit.org
+- name: fluidproject.org
+  url: fluidproject.org
+- name: issues.fluidproject.org
+  url: issues.fluidproject.org
+- name: wiki.fluidproject.org
+  url: wiki.fluidproject.org
+- name: www.fluidproject.org
+  url: www.fluidproject.org
+- name: build.fluidproject.org
+  url: build.fluidproject.org
+- name: build-chartauthoring.fluidproject.org
+  url: build-chartauthoring.fluidproject.org/demos
+- name: build-discoverycat.fluidproject.org
+  url: build-discoverycat.fluidproject.org/demo
+- name: build-firstdiscovery.fluidproject.org
+  url: build-firstdiscovery.fluidproject.org/demos
+- name: build-infusion.fluidproject.org
+  url: build-infusion.fluidproject.org/demos/renderer
+- name: build-musicmania.fluidproject.org
+  url: build-musicmania.fluidproject.org
+- name: build-playtown.fluidproject.org
+  url: build-playtown.fluidproject.org
+- name: build-prefseditors.fluidproject.org
+  url: build-prefseditors.fluidproject.org/demos/explorationTool
+- name: build-videoplayer.fluidproject.org
+  url: build-videoplayer.fluidproject.org/demos/Mammals
+- name: docs.fluidproject.org
+  url: docs.fluidproject.org
+- name: forge.fluidproject.org
+  url: forge.fluidproject.org
+- name: weavly.org
+  url: weavly.org
+- name: create.weavly.org
+  url: create.weavly.org
+- name: co-design.weavly.org
+  url: co-design.weavly.org
+- name: www.weavly.org
+  url: www.weavly.org
+- name: achecker.ca
+  url: achecker.ca
+- name: www.achecker.ca
+  url: www.achecker.ca
+- name: codelearncreate.org
+  url: codelearncreate.org
+- name: www.codelearncreate.org
+  url: www.codelearncreate.org
+- name: build.codelearncreate.org
+  url: build.codelearncreate.org
+- name: forest.codelearncreate.org
+  url: forest.codelearncreate.org
+- name: prototype.codelearncreate.org
+  url: prototype.codelearncreate.org
+- name: resources.codelearncreate.org
+  url: resources.codelearncreate.org
+- name: space.codelearncreate.org
+  url: space.codelearncreate.org
+- name: inclusivedesign.ca
+  url: inclusivedesign.ca
+- name: tracktime.inclusivedesign.ca
+  url: tracktime.inclusivedesign.ca
+- name: accessibility-exchange.inclusivedesign.ca
+  url: accessibility-exchange.inclusivedesign.ca
+- name: accessibility-in-action.inclusivedesign.ca
+  url: accessibility-in-action.inclusivedesign.ca
+- name: aihec.inclusivedesign.ca
+  url: aihec.inclusivedesign.ca
+- name: cities.inclusivedesign.ca
+  url: cities.inclusivedesign.ca
+- name: codesign.inclusivedesign.ca
+  url: codesign.inclusivedesign.ca
+- name: co-design.inclusivedesign.ca
+  url: co-design.inclusivedesign.ca
+- name: eco-op.inclusivedesign.ca
+  url: eco-op.inclusivedesign.ca
+- name: guide.inclusivedesign.ca
+  url: guide.inclusivedesign.ca
+- name: map.wecount.inclusivedesign.ca
+  url: map.wecount.inclusivedesign.ca
+- name: stories.cities.inclusivedesign.ca
+  url: stories.cities.inclusivedesign.ca
+- name: wecount.inclusivedesign.ca
+  url: wecount.inclusivedesign.ca
+- name: www.inclusivedesign.ca
+  url: www.inclusivedesign.ca
+- name: barrierfree.ca
+  url: barrierfree.ca
+- name: www.barrierfree.ca
+  url: www.barrierfree.ca
+- name: idrc.ocad.ca
+  url: idrc.ocad.ca
+- name: lists.idrc.ocad.ca
+  url: lists.idrc.ocad.ca
+- name: adod.idrc.ocad.ca
+  url: adod.idrc.ocad.ca
+- name: aegis.idrc.ocad.ca
+  url: aegis.idrc.ocad.ca
+- name: clown.idrc.ocad.ca
+  url: clown.idrc.ocad.ca
+- name: cnice.idrc.ocad.ca
+  url: cnice.idrc.ocad.ca
+- name: courses.idrc.ocad.ca
+  url: courses.idrc.ocad.ca
+- name: culturall.idrc.ocad.ca
+  url: culturall.idrc.ocad.ca
+- name: culturall1.idrc.ocad.ca
+  url: culturall1.idrc.ocad.ca
+- name: culturall2.idrc.ocad.ca
+  url: culturall2.idrc.ocad.ca
+- name: deep.idrc.ocad.ca
+  url: deep.idrc.ocad.ca
+- name: ilc.idrc.ocad.ca
+  url: ilc.idrc.ocad.ca
+- name: legacy.idrc.ocad.ca
+  url: legacy.idrc.ocad.ca
+- name: nide.idrc.ocad.ca
+  url: nide.idrc.ocad.ca
+- name: opencaps.idrc.ocad.ca
+  url: opencaps.idrc.ocad.ca
+- name: opendoors.idrc.ocad.ca
+  url: opendoors.idrc.ocad.ca
+- name: outside-in.idrc.ocad.ca
+  url: outside-in.idrc.ocad.ca
+- name: pipedaproject.idrc.ocad.ca
+  url: pipedaproject.idrc.ocad.ca
+- name: snow.idrc.ocad.ca
+  url: snow.idrc.ocad.ca
+- name: static.idrc.ocad.ca
+  url: static.idrc.ocad.ca
+- name: stretch.idrc.ocad.ca
+  url: stretch.idrc.ocad.ca
+- name: www.idrc.ocad.ca
+  url: www.idrc.ocad.ca
+- name: www.snow.idrc.ocad.ca
+  url: www.snow.idrc.ocad.ca
+- name: fluidengage.org
+  url: fluidengage.org
+- name: www.fluidengage.org
+  url: www.fluidengage.org
+- name: includenet.ca
+  url: includenet.ca
+- name: www.includenet.ca
+  url: www.includenet.ca
+- name: web4all.ca
+  url: web4all.ca
+- name: www.web4all.ca
+  url: www.web4all.ca
+- name: unpopular.ca
+  url: unpopular.ca
+- name: www.unpopular.ca
+  url: www.unpopular.ca
+- name: inverted-wordclouds.inclusivedesign.ca
+  url: inverted-wordclouds.inclusivedesign.ca
+- name: standards.inclusivedesign.ca
+  url: standards.inclusivedesign.ca
 status-website:
   cname: status.incd.ca
   introMessage: Status page for the Inclusive Design Research Centre, powered by [Upptime](https://github.com/upptime/upptime).
@@ -286,7 +286,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/inclusive-design/uptime/main/assets/idrc-icon.svg
   name: IDRC Status
   navbar:
-    - href: /
-      title: Status
-    - href: https://github.com/$OWNER/$REPO
-      title: GitHub
+  - href: /
+    title: Status
+  - href: https://github.com/$OWNER/$REPO
+    title: GitHub
