@@ -279,6 +279,10 @@ sites:
   url: inverted-wordclouds.inclusivedesign.ca
 - name: standards.inclusivedesign.ca
   url: standards.inclusivedesign.ca
+- name: k2._domainkey.inclusivedesign.ca
+  url: k2._domainkey.inclusivedesign.ca
+- name: k3._domainkey.inclusivedesign.ca
+  url: k3._domainkey.inclusivedesign.ca
 status-website:
   cname: status.incd.ca
   introMessage: Status page for the Inclusive Design Research Centre, powered by [Upptime](https://github.com/upptime/upptime).
