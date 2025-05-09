@@ -30,6 +30,10 @@ ignore-records:
   - jr3ypq4j6crc
   - hhdblzi6zso3
 
+  # We Count Mailchimp domain verification records
+  - k2._domainkey
+  - k3._domainkey
+
   # Mail-related CNAME records
   - improvmx
 
