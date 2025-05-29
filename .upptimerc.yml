@@ -163,10 +163,6 @@ sites:
   url: co-design.weavly.org
 - name: www.weavly.org
   url: www.weavly.org
-- name: achecker.ca
-  url: achecker.ca
-- name: www.achecker.ca
-  url: www.achecker.ca
 - name: codelearncreate.org
   url: codelearncreate.org
 - name: www.codelearncreate.org
