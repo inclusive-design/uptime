@@ -256,10 +256,10 @@
     "url": "metadata.floeproject.org/demos/metadata",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "metadata-floeproject-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
@@ -267,7 +267,9 @@
     "timeWeek": 275,
     "timeMonth": 298,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 2
+    }
   },
   {
     "name": "staging-stories.floeproject.org",
@@ -1884,7 +1886,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www-webpourtous-ca",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -1992,7 +1994,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www-fluidinfusion-org",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -2856,7 +2858,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tracktime-inclusivedesign-ca",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.91%",
