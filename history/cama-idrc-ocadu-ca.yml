@@ -1,7 +1,7 @@
 url: cama.idrc.ocadu.ca
-status: down
-code: 500
-responseTime: 876
-lastUpdated: 2025-06-12T18:53:21.684Z
+status: up
+code: 200
+responseTime: 540
+lastUpdated: 2025-06-12T19:00:01.187Z
 startTime: 2024-05-22T14:50:58.614Z
 generator: Upptime <https://github.com/upptime/upptime>
