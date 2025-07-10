@@ -275,6 +275,8 @@ sites:
   url: inverted-wordclouds.inclusivedesign.ca
 - name: standards.inclusivedesign.ca
   url: standards.inclusivedesign.ca
+- name: engage.fluidproject.org
+  url: engage.fluidproject.org
 status-website:
   cname: status.incd.ca
   introMessage: Status page for the Inclusive Design Research Centre, powered by [Upptime](https://github.com/upptime/upptime).
