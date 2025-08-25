@@ -3749,16 +3749,18 @@
     "slug": "web4all-ca",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 61,
-    "timeWeek": 54,
+    "timeDay": 67,
+    "timeWeek": 57,
     "timeMonth": 70,
     "timeYear": 67,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 7
+    }
   },
   {
     "name": "www.web4all.ca",
