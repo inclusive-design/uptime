@@ -2304,16 +2304,18 @@
     "slug": "build-fluidproject-org",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 401,
-    "timeWeek": 268,
-    "timeMonth": 275,
+    "timeDay": 290,
+    "timeWeek": 257,
+    "timeMonth": 272,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 5
+    }
   },
   {
     "name": "build-chartauthoring.fluidproject.org",
@@ -2772,14 +2774,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tracktime-inclusivedesign-ca",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "97.63%",
-    "uptimeWeek": "99.59%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "95.10%",
     "time": 474,
     "timeDay": 301,
-    "timeWeek": 396,
+    "timeWeek": 389,
     "timeMonth": 566,
     "timeYear": 466,
     "dailyMinutesDown": {
