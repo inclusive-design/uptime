@@ -291,16 +291,18 @@
     "slug": "stories-floeproject-org",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 250,
     "timeDay": 169,
     "timeWeek": 308,
     "timeMonth": 285,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-01": 11
+    }
   },
   {
     "name": "codelearncreate.ca",
@@ -1283,19 +1285,19 @@
     "url": "adod.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adod-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 203,
-    "timeDay": 142,
-    "timeWeek": 259,
-    "timeMonth": 256,
+    "timeDay": 188,
+    "timeWeek": 262,
+    "timeMonth": 257,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-09-01": 3,
+      "2025-09-01": 8,
       "2024-12-09": 38,
       "2024-12-08": 42
     }
@@ -1493,19 +1495,19 @@
     "url": "nide.snow.idrc.ocadu.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nide-snow-idrc-ocadu-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 178,
-    "timeWeek": 668,
-    "timeMonth": 340,
+    "timeDay": 196,
+    "timeWeek": 619,
+    "timeMonth": 337,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-09-01": 3,
+      "2025-09-01": 8,
       "2024-12-09": 7,
       "2024-12-08": 8
     }
@@ -2051,19 +2053,19 @@
     "url": "sojustrepairit.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sojustrepairit-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 69,
-    "timeWeek": 630,
-    "timeMonth": 300,
+    "timeDay": 102,
+    "timeWeek": 578,
+    "timeMonth": 295,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-09-01": 4
+      "2025-09-01": 8
     }
   },
   {
@@ -2308,9 +2310,9 @@
     "slug": "build-fluidproject-org",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 260,
     "timeDay": 338,
@@ -2318,6 +2320,7 @@
     "timeMonth": 270,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2025-09-01": 14,
       "2025-08-27": 5
     }
   },
@@ -3565,16 +3568,18 @@
     "slug": "static-idrc-ocad-ca",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 180,
     "timeDay": 130,
     "timeWeek": 223,
     "timeMonth": 199,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-01": 16
+    }
   },
   {
     "name": "stretch.idrc.ocad.ca",
