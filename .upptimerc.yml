@@ -103,10 +103,6 @@ sites:
   url: stretch.idrc.ocadu.ca
 - name: www.snow.idrc.ocadu.ca
   url: www.snow.idrc.ocadu.ca
-- name: fluidengage.ca
-  url: fluidengage.ca
-- name: www.fluidengage.ca
-  url: www.fluidengage.ca
 - name: webpourtous.ca
   url: webpourtous.ca
 - name: www.webpourtous.ca
@@ -255,10 +251,6 @@ sites:
   url: www.idrc.ocad.ca
 - name: www.snow.idrc.ocad.ca
   url: www.snow.idrc.ocad.ca
-- name: fluidengage.org
-  url: fluidengage.org
-- name: www.fluidengage.org
-  url: www.fluidengage.org
 - name: includenet.ca
   url: includenet.ca
 - name: www.includenet.ca
