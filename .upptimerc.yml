@@ -7,10 +7,6 @@ repo: uptime
 sites:
 - name: idrc.ocadu.ca
   url: https://idrc.ocadu.ca
-- name: sojustrepairit.ca
-  url: sojustrepairit.ca
-- name: www.sojustrepairit.ca
-  url: www.sojustrepairit.ca
 - name: floeproject.org
   url: floeproject.org
 - name: www.floeproject.org
@@ -41,18 +37,10 @@ sites:
   url: resources.codelearncreate.com
 - name: www.codelearncreate.com
   url: www.codelearncreate.com
-- name: fluidinfusion.ca
-  url: fluidinfusion.ca
-- name: www.fluidinfusion.ca
-  url: www.fluidinfusion.ca
 - name: inclusivelearning.ca
   url: inclusivelearning.ca
 - name: www.inclusivelearning.ca
   url: www.inclusivelearning.ca
-- name: in-kind.ca
-  url: in-kind.ca
-- name: www.in-kind.ca
-  url: www.in-kind.ca
 - name: idrc.ocadu.ca
   url: idrc.ocadu.ca
 - name: acaw.idrc.ocadu.ca
@@ -107,10 +95,6 @@ sites:
   url: webpourtous.ca
 - name: www.webpourtous.ca
   url: www.webpourtous.ca
-- name: fluidinfusion.org
-  url: fluidinfusion.org
-- name: www.fluidinfusion.org
-  url: www.fluidinfusion.org
 - name: bigidea.one
   url: bigidea.one
 - name: www.bigidea.one
@@ -251,10 +235,6 @@ sites:
   url: www.idrc.ocad.ca
 - name: www.snow.idrc.ocad.ca
   url: www.snow.idrc.ocad.ca
-- name: includenet.ca
-  url: includenet.ca
-- name: www.includenet.ca
-  url: www.includenet.ca
 - name: web4all.ca
   url: web4all.ca
 - name: www.web4all.ca
