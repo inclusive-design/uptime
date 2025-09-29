@@ -2418,19 +2418,19 @@
     "url": "aihec.inclusivedesign.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aihec-inclusivedesign-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 570,
-    "timeWeek": 277,
-    "timeMonth": 208,
+    "timeDay": 435,
+    "timeWeek": 265,
+    "timeMonth": 207,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-09-29": 4
+      "2025-09-29": 7
     }
   },
   {
