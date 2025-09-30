@@ -1,7 +1,7 @@
 url: build-musicmania.fluidproject.org
-status: up
-code: 200
-responseTime: 331
-lastUpdated: 2025-09-29T23:01:31.651Z
+status: down
+code: 503
+responseTime: 351
+lastUpdated: 2025-09-30T17:51:22.250Z
 startTime: 2024-05-22T14:51:28.831Z
 generator: Upptime <https://github.com/upptime/upptime>
