@@ -1,7 +1,7 @@
 url: opencaps.idrc.ocad.ca
-status: down
-code: 503
-responseTime: 1183
-lastUpdated: 2025-10-01T18:53:40.238Z
+status: up
+code: 200
+responseTime: 158
+lastUpdated: 2025-10-01T19:08:52.572Z
 startTime: 2024-05-22T14:52:00.330Z
 generator: Upptime <https://github.com/upptime/upptime>
