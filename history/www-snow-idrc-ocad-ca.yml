@@ -1,7 +1,7 @@
 url: www.snow.idrc.ocad.ca
-status: down
-code: 503
-responseTime: 1335
-lastUpdated: 2025-10-01T11:36:30.880Z
+status: up
+code: 200
+responseTime: 132
+lastUpdated: 2025-10-01T11:42:55.535Z
 startTime: 2024-05-22T14:52:05.040Z
 generator: Upptime <https://github.com/upptime/upptime>
