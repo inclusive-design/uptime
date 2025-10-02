@@ -1,7 +1,7 @@
 url: ilc.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 279
-lastUpdated: 2025-10-01T23:01:54.426Z
+status: down
+code: 503
+responseTime: 1790
+lastUpdated: 2025-10-02T16:56:12.775Z
 startTime: 2024-05-22T14:51:07.210Z
 generator: Upptime <https://github.com/upptime/upptime>
