@@ -187,7 +187,7 @@
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.18%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.16%",
     "time": 251,
     "timeDay": 249,
@@ -1379,9 +1379,7 @@
     "timeWeek": 214,
     "timeMonth": 197,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2024-10-04": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "stretch.idrc.ocadu.ca",
@@ -1886,7 +1884,7 @@
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.19%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.16%",
     "time": 260,
     "timeDay": 267,
@@ -2937,9 +2935,7 @@
     "timeWeek": 209,
     "timeMonth": 193,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2024-10-04": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "courses.idrc.ocad.ca",
@@ -3190,7 +3186,7 @@
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.18%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.16%",
     "time": 180,
     "timeDay": 338,
