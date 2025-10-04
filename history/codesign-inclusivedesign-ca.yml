@@ -1,7 +1,7 @@
 url: codesign.inclusivedesign.ca
-status: up
-code: 200
-responseTime: 876
-lastUpdated: 2025-10-03T23:02:01.639Z
+status: down
+code: 500
+responseTime: 1616
+lastUpdated: 2025-10-04T15:22:55.379Z
 startTime: 2024-05-22T14:51:44.568Z
 generator: Upptime <https://github.com/upptime/upptime>
