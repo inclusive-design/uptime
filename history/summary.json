@@ -2956,18 +2956,20 @@
     "url": "culturall1.idrc.ocad.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "culturall1-idrc-ocad-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 197,
+    "time": 198,
     "timeDay": 138,
     "timeWeek": 191,
     "timeMonth": 199,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-04": 7
+    }
   },
   {
     "name": "culturall2.idrc.ocad.ca",
