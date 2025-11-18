@@ -1,7 +1,7 @@
 url: build-firstdiscovery.fluidproject.org/demos
-status: up
-code: 200
-responseTime: 317
-lastUpdated: 2025-11-17T23:01:32.974Z
+status: down
+code: 500
+responseTime: 69
+lastUpdated: 2025-11-18T11:44:49.813Z
 startTime: 2024-05-22T14:51:27.625Z
 generator: Upptime <https://github.com/upptime/upptime>
