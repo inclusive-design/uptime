@@ -1,7 +1,7 @@
 url: adod.idrc.ocadu.ca
-status: down
-code: 500
-responseTime: 167
-lastUpdated: 2025-11-18T15:16:38.750Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2025-11-18T15:30:49.452Z
 startTime: 2024-05-22T14:51:02.304Z
 generator: Upptime <https://github.com/upptime/upptime>
