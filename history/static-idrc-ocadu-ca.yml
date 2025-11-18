@@ -1,7 +1,7 @@
 url: static.idrc.ocadu.ca
-status: down
-code: 500
-responseTime: 76
-lastUpdated: 2025-11-18T12:28:24.863Z
+status: up
+code: 200
+responseTime: 211
+lastUpdated: 2025-11-18T14:56:36.208Z
 startTime: 2024-05-22T14:51:12.405Z
 generator: Upptime <https://github.com/upptime/upptime>
