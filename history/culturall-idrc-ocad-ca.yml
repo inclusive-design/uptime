@@ -1,7 +1,7 @@
 url: culturall.idrc.ocad.ca
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2025-11-17T23:01:50.629Z
+status: down
+code: 500
+responseTime: 278
+lastUpdated: 2025-11-18T11:39:21.429Z
 startTime: 2024-05-22T14:51:55.931Z
 generator: Upptime <https://github.com/upptime/upptime>
