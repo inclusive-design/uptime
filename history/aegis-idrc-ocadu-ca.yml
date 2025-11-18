@@ -1,7 +1,7 @@
 url: aegis.idrc.ocadu.ca
-status: down
-code: 500
-responseTime: 53
-lastUpdated: 2025-11-18T13:06:40.794Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2025-11-18T15:08:34.966Z
 startTime: 2024-05-22T14:51:02.888Z
 generator: Upptime <https://github.com/upptime/upptime>
