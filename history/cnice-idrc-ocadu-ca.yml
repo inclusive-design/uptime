@@ -1,7 +1,7 @@
 url: cnice.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2025-11-18T15:08:35.584Z
+status: down
+code: 500
+responseTime: 11085
+lastUpdated: 2025-11-18T15:31:04.901Z
 startTime: 2024-05-22T14:51:03.513Z
 generator: Upptime <https://github.com/upptime/upptime>
