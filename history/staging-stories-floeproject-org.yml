@@ -1,7 +1,7 @@
 url: staging-stories.floeproject.org
-status: down
-code: 500
-responseTime: 55
-lastUpdated: 2025-11-18T12:27:40.025Z
+status: up
+code: 200
+responseTime: 198
+lastUpdated: 2025-11-18T12:48:16.077Z
 startTime: 2024-05-22T14:50:46.338Z
 generator: Upptime <https://github.com/upptime/upptime>
