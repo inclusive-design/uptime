@@ -1,7 +1,7 @@
 url: floeproject.org
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2025-11-18T12:12:28.619Z
+status: down
+code: 500
+responseTime: 208
+lastUpdated: 2025-11-18T12:27:29.358Z
 startTime: 2024-05-22T14:50:42.965Z
 generator: Upptime <https://github.com/upptime/upptime>
