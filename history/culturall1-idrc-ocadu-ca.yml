@@ -1,7 +1,7 @@
 url: culturall1.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 188
-lastUpdated: 2025-11-17T23:01:20.105Z
+status: down
+code: 500
+responseTime: 61
+lastUpdated: 2025-11-18T11:44:19.042Z
 startTime: 2024-05-22T14:51:05.459Z
 generator: Upptime <https://github.com/upptime/upptime>
