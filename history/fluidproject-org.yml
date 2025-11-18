@@ -1,7 +1,7 @@
 url: fluidproject.org
-status: up
-code: 200
-responseTime: 270
-lastUpdated: 2025-11-18T12:49:07.032Z
+status: down
+code: 500
+responseTime: 124
+lastUpdated: 2025-11-18T13:07:14.065Z
 startTime: 2024-05-22T14:51:22.280Z
 generator: Upptime <https://github.com/upptime/upptime>
