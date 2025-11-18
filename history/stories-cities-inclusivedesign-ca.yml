@@ -1,7 +1,7 @@
 url: stories.cities.inclusivedesign.ca
-status: up
-code: 200
-responseTime: 166
-lastUpdated: 2025-11-18T12:14:10.331Z
+status: down
+code: 500
+responseTime: 117
+lastUpdated: 2025-11-18T12:29:26.640Z
 startTime: 2024-05-22T14:51:47.876Z
 generator: Upptime <https://github.com/upptime/upptime>
