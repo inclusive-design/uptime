@@ -1,7 +1,7 @@
 url: stretch.idrc.ocadu.ca
-status: down
-code: 500
-responseTime: 235
-lastUpdated: 2025-11-18T11:38:06.664Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2025-11-18T12:13:24.785Z
 startTime: 2024-05-22T14:51:13.028Z
 generator: Upptime <https://github.com/upptime/upptime>
