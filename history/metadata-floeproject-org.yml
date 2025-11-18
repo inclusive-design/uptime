@@ -1,7 +1,7 @@
 url: metadata.floeproject.org/demos/metadata
-status: down
-code: 500
-responseTime: 189
-lastUpdated: 2025-11-18T11:37:09.506Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-11-18T12:12:33.794Z
 startTime: 2024-05-22T14:50:45.658Z
 generator: Upptime <https://github.com/upptime/upptime>
