@@ -1,7 +1,7 @@
 url: deep.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 221
-lastUpdated: 2025-11-17T23:01:20.951Z
+status: down
+code: 500
+responseTime: 63
+lastUpdated: 2025-11-18T11:44:21.506Z
 startTime: 2024-05-22T14:51:06.637Z
 generator: Upptime <https://github.com/upptime/upptime>
