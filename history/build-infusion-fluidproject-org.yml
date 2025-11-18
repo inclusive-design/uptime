@@ -1,7 +1,7 @@
 url: build-infusion.fluidproject.org/demos/renderer
-status: down
-code: 500
-responseTime: 92
-lastUpdated: 2025-11-18T11:38:27.770Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2025-11-18T12:13:40.185Z
 startTime: 2024-05-22T14:51:28.215Z
 generator: Upptime <https://github.com/upptime/upptime>
