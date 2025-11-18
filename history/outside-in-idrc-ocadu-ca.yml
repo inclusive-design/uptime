@@ -1,7 +1,7 @@
 url: outside-in.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 210
-lastUpdated: 2025-11-18T14:41:11.852Z
+status: down
+code: 500
+responseTime: 244
+lastUpdated: 2025-11-18T14:56:32.578Z
 startTime: 2024-05-22T14:51:10.450Z
 generator: Upptime <https://github.com/upptime/upptime>
