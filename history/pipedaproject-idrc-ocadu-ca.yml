@@ -1,7 +1,7 @@
 url: pipedaproject.idrc.ocadu.ca
-status: down
-code: 500
-responseTime: 55
-lastUpdated: 2025-11-18T13:06:59.713Z
+status: up
+code: 200
+responseTime: 180
+lastUpdated: 2025-11-18T14:41:14.470Z
 startTime: 2024-05-22T14:51:11.124Z
 generator: Upptime <https://github.com/upptime/upptime>
