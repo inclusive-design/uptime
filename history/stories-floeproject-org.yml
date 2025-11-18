@@ -1,7 +1,7 @@
 url: stories.floeproject.org
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2025-11-17T23:01:08.637Z
+status: down
+code: 500
+responseTime: 296
+lastUpdated: 2025-11-18T11:37:12.570Z
 startTime: 2024-05-22T14:50:47.145Z
 generator: Upptime <https://github.com/upptime/upptime>
