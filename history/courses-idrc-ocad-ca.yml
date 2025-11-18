@@ -1,7 +1,7 @@
 url: courses.idrc.ocad.ca
-status: down
-code: 500
-responseTime: 76
-lastUpdated: 2025-11-18T13:08:42.744Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2025-11-18T14:42:45.992Z
 startTime: 2024-05-22T14:51:55.326Z
 generator: Upptime <https://github.com/upptime/upptime>
