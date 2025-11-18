@@ -1,7 +1,7 @@
 url: acaw.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 525
-lastUpdated: 2025-11-18T12:12:53.338Z
+status: down
+code: 500
+responseTime: 259
+lastUpdated: 2025-11-18T12:27:50.364Z
 startTime: 2024-05-22T14:50:57.740Z
 generator: Upptime <https://github.com/upptime/upptime>
