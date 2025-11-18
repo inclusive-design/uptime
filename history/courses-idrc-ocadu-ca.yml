@@ -1,7 +1,7 @@
 url: courses.idrc.ocadu.ca
-status: up
-code: 200
-responseTime: 267
-lastUpdated: 2025-11-18T14:56:19.346Z
+status: down
+code: 500
+responseTime: 90
+lastUpdated: 2025-11-18T15:16:41.855Z
 startTime: 2024-05-22T14:51:04.130Z
 generator: Upptime <https://github.com/upptime/upptime>
