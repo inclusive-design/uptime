@@ -1,7 +1,7 @@
 url: build-chartauthoring.fluidproject.org/demos
-status: up
-code: 200
-responseTime: 301
-lastUpdated: 2025-11-18T12:49:14.869Z
+status: down
+code: 500
+responseTime: 92
+lastUpdated: 2025-11-18T13:07:24.082Z
 startTime: 2024-05-22T14:51:26.300Z
 generator: Upptime <https://github.com/upptime/upptime>
