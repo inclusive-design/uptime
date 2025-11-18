@@ -1,7 +1,7 @@
 url: aihec.inclusivedesign.ca
-status: up
-code: 200
-responseTime: 145
-lastUpdated: 2025-11-18T14:42:23.011Z
+status: down
+code: 500
+responseTime: 79
+lastUpdated: 2025-11-18T15:17:32.331Z
 startTime: 2024-05-22T14:51:43.397Z
 generator: Upptime <https://github.com/upptime/upptime>
