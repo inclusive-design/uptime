@@ -1,7 +1,7 @@
 url: snow.idrc.ocadu.ca
-status: down
-code: 500
-responseTime: 124
-lastUpdated: 2025-11-18T12:48:55.598Z
+status: up
+code: 200
+responseTime: 248
+lastUpdated: 2025-11-18T14:56:35.582Z
 startTime: 2024-05-22T14:51:11.780Z
 generator: Upptime <https://github.com/upptime/upptime>
