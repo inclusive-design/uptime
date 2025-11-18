@@ -1,7 +1,7 @@
 url: opendoors.idrc.ocad.ca
-status: down
-code: 500
-responseTime: 103
-lastUpdated: 2025-11-18T11:39:29.792Z
+status: up
+code: 200
+responseTime: 145
+lastUpdated: 2025-11-18T12:14:39.216Z
 startTime: 2024-05-22T14:52:00.909Z
 generator: Upptime <https://github.com/upptime/upptime>
