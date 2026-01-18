@@ -1,7 +1,7 @@
 url: wecount.inclusivedesign.ca
-status: up
-code: 200
-responseTime: 1154
-lastUpdated: 2026-01-17T23:01:43.251Z
+status: down
+code: 500
+responseTime: 3161
+lastUpdated: 2026-01-18T17:17:22.859Z
 startTime: 2024-05-22T14:51:48.391Z
 generator: Upptime <https://github.com/upptime/upptime>
