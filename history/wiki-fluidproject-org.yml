@@ -1,7 +1,7 @@
 url: wiki.fluidproject.org
-status: up
-code: 200
-responseTime: 1118
-lastUpdated: 2026-01-31T16:29:05.098Z
+status: down
+code: 429
+responseTime: 517
+lastUpdated: 2026-01-31T16:56:51.477Z
 startTime: 2024-05-22T14:51:23.881Z
 generator: Upptime <https://github.com/upptime/upptime>
